@@ -199,8 +199,8 @@ The plan now is to build everything that needs to use the lambda thingy (Pilon &
 then build the frontend part.
 
 ***
-# FccFriendshipTest
-### A Simple JAMStack questions game App - More info coming soon
+# FriendsOverJAM
+### Simple set of JAMStack based games
 * Teammates:
     - Simon Xiong (@simonxcode)
     - Akhil Alluri (@techalien)
@@ -209,7 +209,14 @@ then build the frontend part.
     - Sunday Joe (@pac_admin)
 * Seeking Teammates: No
 * [GitHub URL](https://github.com/techalien/FccFriendshipTest)
-* Coming soon
+* FriendsOverJAM
+### Project Q&A:
+1. What are you going to build?  
+Two games to demonstate JAMStack concepts
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+We are using FaunaDB, Netlify to AutoDeploy from GitHub 
+3. What is your plan to execute this idea?  
+We have divided the tasks into functional Units [DB APIs, React layout and the games.]. Each person will work on the respective feature branch, which shall be merged into **master** at milestones.  
 
 ***
 
@@ -392,7 +399,17 @@ Happy Healty Snack Jamming and coding hard!!!
   - Linda Kovacs (@lindakovacs)
 * **Seeking Teammates**: No
 * [GitHub URL](https://github.com/harshil1712/gatsby-store-hackathon)
+* [Live Site](https://magikart-hacky.netlify.com)
 
+### Project Q&A:
+1. What are you going to build?  
+An E-commerce site that will be able to provide product suggestions based on the uploaded image(using the clarifai recognition API)
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+Pilon  
+Clarifai  
+Netlify
+3. What is your plan to execute this idea?  
+To have a smart shopping experience where a person can take an image of another person and get the products that appear in the image for shopping 
 ***
 
 # MarketGraph
@@ -413,6 +430,7 @@ Happy Healty Snack Jamming and coding hard!!!
   - Joe Matthews
   - Hong L
   - Natalie Fleming
+  - Daniel Ashcraft
 * Seaking Teammates: No
 * [Project URL](https://github.com/chris-tse/extralifeleaderboard)
 * Project Name: Extra-Life Donations Leaderboard
@@ -513,3 +531,16 @@ Our team is split between front- and back-end development, creating and styling 
 - 
 ***
 
+# GitBit
+### A a game that encourages new developers to create a habit of coding regularly and helping them become better developpers.
+* **Teammates**:
+  - Minh Trinh (@minhat)
+  - Tatum Alenkov (@Taterz)
+  - David Tran (@PoutineNinja)
+  - Catalin Popescu (@DancingCat)
+  - Maria Tolymbek (@Daffodil509)
+* **Seeking Teammates**: No
+* [GitHub URL](https://github.com/tatumalenko/fcc-jamstack-hackathon-2018)
+* Project Name: GitBit
+
+***
